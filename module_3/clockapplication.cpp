@@ -128,7 +128,8 @@ void timeEffect(){
 					if(hr24 == 24){
 						hr24 = 0;
 					}
-				}}
+                }
+            }
 				break;
 			case 4:
 				cout << "good bye!!" << endl;
